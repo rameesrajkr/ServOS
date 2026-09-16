@@ -1,0 +1,6 @@
+{
+  "name": "ServeOS",
+  "description": "Universal adaptive restaurant management platform and operating system for food stalls, cafes, fine dining, and enterprise hotel F&B.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
